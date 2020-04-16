@@ -18,7 +18,7 @@ hexf = "0.1.0"
 image="*"
 lazy_static = "1.2.0"
 num="*"
-num_cpus = "1.2"
+num_cpus = "1.13"
 openexr = { version = "0.6", optional = true }
 pbr = "1.0"
 pest = "2.0"
