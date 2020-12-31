@@ -19,7 +19,7 @@ image="*"
 lazy_static = "1.2.0"
 num="*"
 num_cpus = "1.2"
-openexr = { version = "0.6", optional = true }
+openexr = { version = "0.7", optional = true }
 pbr = "1.0"
 pest = "2.0"
 pest_derive = "2.0"
